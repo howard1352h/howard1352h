@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LI HUNG.
+- 👋 Hi, my name is CHOU LI-HUNG.
 - 👀 I’m interested in artificial intelligence and web development.
 - 🌱 I’m currently learning .Net MVC.
 - 📫 How to reach me  :email: howard1352h@gmail.com 
